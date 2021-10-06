@@ -1,0 +1,9 @@
+{
+	"name": "adflab-adfmn",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f6b15959-f9c1-41af-80ad-42d728a2f60d",
+		"tenantId": "dbbb511a-98a5-496a-bcca-8ae6f5420fca"
+	}
+}
