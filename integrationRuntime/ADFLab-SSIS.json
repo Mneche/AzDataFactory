@@ -12,7 +12,7 @@
 			"ssisProperties": {
 				"catalogInfo": {
 					"catalogServerEndpoint": "adflabsql3ghcb.database.windows.net",
-					"catalogAdminUserName": "labadmin ",
+					"catalogAdminUserName": "labadmin",
 					"catalogAdminPassword": {
 						"type": "SecureString",
 						"value": "**********"
